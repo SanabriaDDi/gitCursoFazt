@@ -17,6 +17,7 @@ COMANDOS BASICOS
 *  git config -- global user.email "email" Para configurar email del usuario
 *  git config -- global user.name "nombre" Para configurar nombre del usuario
 * git rm -rf --cached . 'Clean Git Hub Cache' for your repo
+* git config -l --show-origin Muestra donde es encuentran los archivos de configuración
 
 git remote add origin https://github.com/SanabriaDDi/asd.git
 git push -u origin master
